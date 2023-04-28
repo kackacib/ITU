@@ -4,7 +4,7 @@ Univerzitní projekt pro předmět ITU (Tvorba uživatelských rozhraní - User 
 # Battleships (Námořní bitva)
 Jednoduchá hra určená pro webový prohlížeč. \
 Frontend hry je implementován ve frameworku React, s využitím Bootstrap. \
-Backend hry je implementován v jazyce Python - framework Flask.\
+Backend hry je implementován v jazyce Python - framework Flask.
 
 
 ## Spuštění aplikace
